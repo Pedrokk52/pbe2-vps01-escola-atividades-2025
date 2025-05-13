@@ -27,5 +27,5 @@ Desenvolver as funcionalidades conforme requisitos
 - [CT005] Cadastre, altere e exclua uma atividade.
 
 ## Tecnologias
-
+- oi
 ## Passo a Passo de como executar a API
